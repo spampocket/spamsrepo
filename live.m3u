@@ -1,1 +1,174 @@
 # spamsrepo
+#EXTM3U
+#EXTINF:-1,(US) ABC NEWS HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6965.ts
+#EXTINF:-1,USA: ABC USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4601.ts
+#EXTINF:-1, FOX NEWS CHANNEL   [864x480]
+http://89.163.148.31:8000/live/michele/michele/6959.ts
+#EXTINF:-1,CANADA: CTV  [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4601.ts
+#EXTINF:-1, CBS ACTION   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6940.ts
+#EXTINF:-1, CBS DRAMA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6941.ts
+#EXTINF:-1, CBS REALITY   [544x576]
+http://89.163.148.31:8000/live/michele/michele/6943.ts
+#EXTINF:-1,USA: NBC USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4578.ts
+#EXTINF:-1,USA: Fight Network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4580.ts
+#EXTINF:-1,USA: AMC USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4602.ts
+#EXTINF:-1,USA: trutv   [960x544]
+http://89.163.148.31:8000/live/fernando/fernando/4619.ts
+#EXTINF:-1,USA: HGTV   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4570.ts
+#EXTINF:-1,USA: HGTV (Backup)  [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4570.ts
+#EXTINF:-1,Cartoon Network Uk
+http://iptv.wssiptv.com/live/sylvia/sylvia/227.ts
+#EXTINF:-1,Disney Junior UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/344.ts
+#EXTINF:-1,Disney XD UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/349.ts
+#EXTINF:-1, NICK   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6954.ts
+#EXTINF:-1,Nick Junior too UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/345.ts
+#EXTINF:-1,USA: Nick Jr   [720x416]
+http://89.163.148.31:8000/live/ramon/ramon/4617.ts
+#EXTINF:-1,SKY Nicktoons UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/346.ts
+#EXTINF:-1,SKY Nicklelodeon UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/347.ts
+#EXTINF:-1,USA: ESPN Usa   [1024x576]
+http://89.163.148.31:8000/live/ramon/ramon/4604.ts
+#EXTINF:-1,ESPN 2 USA
+http://iptv.wssiptv.com/live/sylvia/sylvia/49.ts
+#EXTINF:-1,USA: ESPN U   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4574.ts
+#EXTINF:-1,(US) TSN 1   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6971.ts
+#EXTINF:-1,USA: TSN 2   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4595.ts
+#EXTINF:-1,(US) TSN 3   [1280x720]
+http://89.163.148.31:8000/live/support/support/6973.ts
+#EXTINF:-1,USA: TSN 4   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4597.ts
+#EXTINF:-1,USA: TSN 5   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4598.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4592.ts
+#EXTINF:-1,(US) FOX Sport 2HD   [1024x576]
+http://89.163.148.31:8000/live/michele/michele/6968.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4587.ts
+#EXTINF:-1,USA: NBC Golf   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4586.ts
+#EXTINF:-1,USA: Syfy USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4593.ts
+#EXTINF:-1,USA: Willow HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4603.ts
+#EXTINF:-1,USA: OWN   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4620.ts
+#EXTINF:-1,USA: USA Network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4605.ts
+#EXTINF:-1,USA: Fox 1   [720x576]
+http://89.163.148.31:8000/live/fernando/fernando/4607.ts
+#EXTINF:-1, LIFETIME   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6952.ts
+#EXTINF:-1,USA: TNT   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4571.ts
+#EXTINF:-1, SPACE   [864x480]
+http://89.163.148.31:8000/live/ramon/ramon/6957.ts
+#EXTINF:-1,USA: TNT   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4571.ts
+#EXTINF:-1,USA: History   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4573.ts
+#EXTINF:-1,Crime & Investigation
+http://iptv.wssiptv.com/live/sylvia/sylvia/134.ts
+#EXTINF:-1,History Channel UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/464.ts
+#EXTINF:-1,Investigation Discovery UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/358.ts
+#EXTINF:-1,Discovery Home UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/361.ts
+#EXTINF:-1,Discovery Turbo UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/365.ts
+#EXTINF:-1,Discovery UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/364.ts
+#EXTINF:-1,Discovery Science UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/362.ts
+#EXTINF:-1,History 2 UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/359.ts
+#EXTINF:-1,Nat Geo Wild UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/357.ts
+#EXTINF:-1,Nat Geo UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/355.ts
+#EXTINF:-1,SkySports 1
+http://iptv.wssiptv.com/live/sylvia/sylvia/1.ts
+#EXTINF:-1,SkySports 2
+http://iptv.wssiptv.com/live/sylvia/sylvia/2.ts
+#EXTINF:-1,SkySports 3
+http://iptv.wssiptv.com/live/sylvia/sylvia/3.ts
+#EXTINF:-1,SkySports 4
+http://iptv.wssiptv.com/live/sylvia/sylvia/4.ts
+#EXTINF:-1,SkySports 5
+http://iptv.wssiptv.com/live/sylvia/sylvia/5.ts
+#EXTINF:-1,SkySports F1
+http://iptv.wssiptv.com/live/sylvia/sylvia/6.ts
+#EXTINF:-1,Bt Sports 3 HQ
+http://iptv.wssiptv.com/live/sylvia/sylvia/348.ts
+#EXTINF:-1,Premier Sports HD+
+http://iptv.wssiptv.com/live/sylvia/sylvia/443.ts
+#EXTINF:-1,Racing UK HD+
+http://iptv.wssiptv.com/live/sylvia/sylvia/239.ts
+#EXTINF:-1,Box Nation
+http://iptv.wssiptv.com/live/sylvia/sylvia/15.ts
+#EXTINF:-1,Eurosport 1
+http://iptv.wssiptv.com/live/sylvia/sylvia/12.ts
+#EXTINF:-1,MUTV
+http://iptv.wssiptv.com/live/sylvia/sylvia/343.ts
+#EXTINF:-1,Fox Sports 1 USA (Backup)
+http://iptv.wssiptv.com/live/sylvia/sylvia/59.ts
+#EXTINF:-1,Fox Sports 2 USA (Backup)
+http://iptv.wssiptv.com/live/sylvia/sylvia/60.ts
+#EXTINF:-1,NBC Golf HD
+http://iptv.wssiptv.com/live/sylvia/sylvia/316.ts
+#EXTINF:-1,Animal Planet UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/360.ts
+#EXTINF:-1,Nat Geo Wild UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/357.ts
+#EXTINF:-1,Nat Geo UK
+http://iptv.wssiptv.com/live/sylvia/sylvia/355.ts
+#EXTINF:-1,Travel Channel Uk
+http://iptv.wssiptv.com/live/sylvia/sylvia/809.ts
+#EXTINF:-1, HBO SIGNATURE   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6949.ts
+#EXTINF:-1, STARZ WEST   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6961.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD
+http://iptv.wssiptv.com/live/sylvia/sylvia/536.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://iptv.wssiptv.com/live/sylvia/sylvia/457.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv.wssiptv.com/live/sylvia/sylvia/541.ts
+#EXTINF:-1,Sky Cinema Disney HD
+http://iptv.wssiptv.com/live/sylvia/sylvia/456.ts
+#EXTINF:-1,Sky Cinema Greats HD
+http://iptv.wssiptv.com/live/sylvia/sylvia/535.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.wssiptv.com/live/sylvia/sylvia/534.ts
+#EXTINF:-1,Sky Cinema Select
+http://iptv.wssiptv.com/live/sylvia/sylvia/64.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror
+http://iptv.wssiptv.com/live/sylvia/sylvia/112.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://iptv.wssiptv.com/live/sylvia/sylvia/111.ts
+#EXTINF:-1,Sky Cinema Greats
+http://iptv.wssiptv.com/live/sylvia/sylvia/109.ts
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://iptv.wssiptv.com/live/sylvia/sylvia/107.ts
+#EXTINF:-1,Sky Cinema Hits
+http://iptv.wssiptv.com/live/sylvia/sylvia/388.ts
